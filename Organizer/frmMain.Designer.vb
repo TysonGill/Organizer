@@ -32,7 +32,6 @@ Partial Class frmMain
         Me.mnuSep1 = New System.Windows.Forms.ToolStripSeparator()
         Me.mnuExit = New System.Windows.Forms.ToolStripMenuItem()
         Me.mnuHelp = New System.Windows.Forms.ToolStripMenuItem()
-        Me.mnuManual = New System.Windows.Forms.ToolStripMenuItem()
         Me.mnuUsersGuide = New System.Windows.Forms.ToolStripMenuItem()
         Me.mnuSep2 = New System.Windows.Forms.ToolStripSeparator()
         Me.mnuAbout = New System.Windows.Forms.ToolStripMenuItem()
@@ -59,8 +58,8 @@ Partial Class frmMain
         Me.toolbar = New System.Windows.Forms.ToolStrip()
         Me.tbNew = New System.Windows.Forms.ToolStripButton()
         Me.tbOpen = New System.Windows.Forms.ToolStripButton()
-        Me.tbUpdate = New System.Windows.Forms.ToolStripButton()
         Me.tbDrag = New System.Windows.Forms.ToolStripButton()
+        Me.tbUpdate = New System.Windows.Forms.ToolStripButton()
         Me.tbDelete = New System.Windows.Forms.ToolStripButton()
         Me.tbSep1 = New System.Windows.Forms.ToolStripSeparator()
         Me.tbPrint = New System.Windows.Forms.ToolStripButton()
@@ -99,68 +98,62 @@ Partial Class frmMain
         'mnuOpen
         '
         Me.mnuOpen.Name = "mnuOpen"
-        Me.mnuOpen.Size = New System.Drawing.Size(139, 22)
+        Me.mnuOpen.Size = New System.Drawing.Size(137, 22)
         Me.mnuOpen.Text = "&Open..."
         '
         'mnuSaveAs
         '
         Me.mnuSaveAs.Name = "mnuSaveAs"
-        Me.mnuSaveAs.Size = New System.Drawing.Size(139, 22)
+        Me.mnuSaveAs.Size = New System.Drawing.Size(137, 22)
         Me.mnuSaveAs.Text = "&Save As..."
         '
         'mnuBackupTo
         '
         Me.mnuBackupTo.Name = "mnuBackupTo"
-        Me.mnuBackupTo.Size = New System.Drawing.Size(139, 22)
+        Me.mnuBackupTo.Size = New System.Drawing.Size(137, 22)
         Me.mnuBackupTo.Text = "&Backup To..."
         '
         'mnuSep1
         '
         Me.mnuSep1.Name = "mnuSep1"
-        Me.mnuSep1.Size = New System.Drawing.Size(136, 6)
+        Me.mnuSep1.Size = New System.Drawing.Size(134, 6)
         '
         'mnuExit
         '
         Me.mnuExit.Name = "mnuExit"
-        Me.mnuExit.Size = New System.Drawing.Size(139, 22)
+        Me.mnuExit.Size = New System.Drawing.Size(137, 22)
         Me.mnuExit.Text = "E&xit"
         '
         'mnuHelp
         '
-        Me.mnuHelp.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuManual, Me.mnuUsersGuide, Me.mnuSep2, Me.mnuAbout})
+        Me.mnuHelp.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuUsersGuide, Me.mnuSep2, Me.mnuAbout})
         Me.mnuHelp.Name = "mnuHelp"
         Me.mnuHelp.Size = New System.Drawing.Size(44, 20)
         Me.mnuHelp.Text = "&Help"
         '
-        'mnuManual
-        '
-        Me.mnuManual.Name = "mnuManual"
-        Me.mnuManual.Size = New System.Drawing.Size(148, 22)
-        Me.mnuManual.Text = "&Web Site..."
-        '
         'mnuUsersGuide
         '
         Me.mnuUsersGuide.Name = "mnuUsersGuide"
-        Me.mnuUsersGuide.Size = New System.Drawing.Size(148, 22)
+        Me.mnuUsersGuide.Size = New System.Drawing.Size(180, 22)
         Me.mnuUsersGuide.Text = "&User's Guide..."
         '
         'mnuSep2
         '
         Me.mnuSep2.Name = "mnuSep2"
-        Me.mnuSep2.Size = New System.Drawing.Size(145, 6)
+        Me.mnuSep2.Size = New System.Drawing.Size(177, 6)
         '
         'mnuAbout
         '
         Me.mnuAbout.Name = "mnuAbout"
-        Me.mnuAbout.Size = New System.Drawing.Size(148, 22)
+        Me.mnuAbout.Size = New System.Drawing.Size(180, 22)
         Me.mnuAbout.Text = "&About..."
         '
         'tv
         '
         Me.tv.AllowDrop = True
         Me.tv.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.tv.ContextMenuStrip = Me.ctxMenu
         Me.tv.HideSelection = False
         Me.tv.HotTracking = True
@@ -240,13 +233,13 @@ Partial Class frmMain
         'ctxPasteSame
         '
         Me.ctxPasteSame.Name = "ctxPasteSame"
-        Me.ctxPasteSame.Size = New System.Drawing.Size(164, 22)
+        Me.ctxPasteSame.Size = New System.Drawing.Size(161, 22)
         Me.ctxPasteSame.Text = "At Same Level"
         '
         'ctxPasteUnder
         '
         Me.ctxPasteUnder.Name = "ctxPasteUnder"
-        Me.ctxPasteUnder.Size = New System.Drawing.Size(164, 22)
+        Me.ctxPasteUnder.Size = New System.Drawing.Size(161, 22)
         Me.ctxPasteUnder.Text = "Under This Topic"
         '
         'splitter
@@ -305,8 +298,8 @@ Partial Class frmMain
         'rte
         '
         Me.rte.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.rte.Location = New System.Drawing.Point(41, 59)
         Me.rte.Modified = False
         Me.rte.Name = "rte"
@@ -316,7 +309,7 @@ Partial Class frmMain
         'txtLink
         '
         Me.txtLink.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtLink.BackColor = System.Drawing.SystemColors.Window
         Me.txtLink.Location = New System.Drawing.Point(74, 32)
         Me.txtLink.Name = "txtLink"
@@ -353,15 +346,6 @@ Partial Class frmMain
         Me.tbOpen.Size = New System.Drawing.Size(34, 36)
         Me.tbOpen.ToolTipText = "Open the file or web link"
         '
-        'tbUpdate
-        '
-        Me.tbUpdate.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
-        Me.tbUpdate.Image = CType(resources.GetObject("tbUpdate.Image"), System.Drawing.Image)
-        Me.tbUpdate.ImageTransparentColor = System.Drawing.Color.Magenta
-        Me.tbUpdate.Name = "tbUpdate"
-        Me.tbUpdate.Size = New System.Drawing.Size(34, 36)
-        Me.tbUpdate.ToolTipText = "Update the current topic"
-        '
         'tbDrag
         '
         Me.tbDrag.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
@@ -370,6 +354,15 @@ Partial Class frmMain
         Me.tbDrag.Name = "tbDrag"
         Me.tbDrag.Size = New System.Drawing.Size(34, 36)
         Me.tbDrag.ToolTipText = "Drag to outline to create a new topic"
+        '
+        'tbUpdate
+        '
+        Me.tbUpdate.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
+        Me.tbUpdate.Image = CType(resources.GetObject("tbUpdate.Image"), System.Drawing.Image)
+        Me.tbUpdate.ImageTransparentColor = System.Drawing.Color.Magenta
+        Me.tbUpdate.Name = "tbUpdate"
+        Me.tbUpdate.Size = New System.Drawing.Size(34, 36)
+        Me.tbUpdate.ToolTipText = "Update the current topic"
         '
         'tbDelete
         '
@@ -420,7 +413,7 @@ Partial Class frmMain
         'txtTitle
         '
         Me.txtTitle.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtTitle.BackColor = System.Drawing.SystemColors.Window
         Me.txtTitle.Location = New System.Drawing.Point(74, 6)
         Me.txtTitle.Name = "txtTitle"
@@ -479,7 +472,6 @@ Partial Class frmMain
     Friend WithEvents mnuSep1 As System.Windows.Forms.ToolStripSeparator
     Friend WithEvents txtTitle As System.Windows.Forms.TextBox
     Friend WithEvents mnuHelp As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents mnuManual As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents mnuSep2 As System.Windows.Forms.ToolStripSeparator
     Friend WithEvents mnuAbout As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents mnuOpen As System.Windows.Forms.ToolStripMenuItem

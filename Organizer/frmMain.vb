@@ -430,10 +430,6 @@ Public Class frmMain
         frm.ShowDialog(Me)
     End Sub
 
-    Private Sub mnuManual_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuManual.Click
-        Process.Start("http://surgicalgrade.net/organizer/")
-    End Sub
-
     Private Sub txtLabel_KeyPress(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles txtTitle.KeyDown
         If e.KeyCode = Keys.Return AndAlso txtTitle.Text <> txtTitle.Tag Then
             Dim CurNode As TreeNode = tv.SelectedNode
@@ -554,17 +550,11 @@ Public Class frmMain
 
     Private Sub mnuUsersGuide_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuUsersGuide.Click
         Try
-            Cursor.Current = Cursors.WaitCursor
-
-            Dim OpenLink As String = "http://www.surgicalgrade.net/organizer/media/organizer_guide.pdf"
-            If OpenLink = "" Then Exit Sub
-
-            Process.Start(OpenLink)
-
-        Catch ex As System.Exception
-            MessageBox.Show("Could not open the User's Guide.", "Error Opening User's Guide", MessageBoxButtons.OK, MessageBoxIcon.Error)
-        Finally
-            Cursor.Current = Cursors.Default
+            Dim TempName As String = Path.GetTempPath + "EQ Log Analyzer.pdf"
+            File.WriteAllBytes(TempName, My.Resources.organizer_guide)
+            ui.OpenFile(TempName)
+        Catch ex As system.Exception
+            ReportError(ex)
         End Try
     End Sub
 
