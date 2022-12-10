@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Organizer.exe" version="1.0.0.0" publicKeyToken="19242a661cdb804d" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Organizer.ico" asmv2:publisher="Surgical Grade Software" asmv2:product="Organizer" asmv2:supportUrl="http://www.surgicalgrade.net/organizer" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Organizer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Organizer.exe" parameters="" />
+  </entryPoint>
+  <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ExtendedRichTextBox.dll" size="24576">
+      <assemblyIdentity name="ExtendedRichTextBox" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>J/9LJ/P/w7cOvfSyUGWACz8/jmY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NetSpell.SpellChecker.dll" size="106496">
+      <assemblyIdentity name="NetSpell.SpellChecker" version="2.1.7.41329" publicKeyToken="318B389F0DB66E46" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>2wSKVK3Q/RIG62dGsJWrh4reqLc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Organizer.exe" size="157696">
+      <assemblyIdentity name="Organizer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>73k1J8lKLoUW+HGa/jaaAc/vMEY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RichEditor.dll" size="1109504">
+      <assemblyIdentity name="RichEditor" version="1.0.5092.18530" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>gevFnP8jP4uCruZw5XqS12sdqg8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Utility.dll" size="148992">
+      <assemblyIdentity name="Utility" version="1.4.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ONKx28go1YMrPeA6oGQEgrvYOPE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="en-US.dic" size="1032167">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AJCij6GgsqRYshgAYDuTeP1BrIM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Organizer.exe.config" size="1353">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CszMXsm+DONvTymO2u8FaA86w20=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Organizer.ico" size="25214">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>uoDX7YIS4oe3qIqo83PH+e+kRBU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Surgical Grade Software" issuerKeyHash="5d2903608396f526c01c443b4027ac720e4d3f2c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>0K79zsSM2XT7ks623VTyrajY3XY=</DigestValue></Reference></SignedInfo><SignatureValue>HKMmUlKtV7omfIKAO10+sg1c3N0f3dPALzGW2hpLM28XEfvdirvhhen3rOo0rYCz3zx0M/II2gjHtunAWyI1A/1vnzDH1fgdsJYAav4xtCWsUaVHKcVNp0vXxlothF01H1Ne52gLIBukb75Crsm49Va6xXowU9/o03nKgjEMOoA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3B2tckthw2PUQFTIMmWchYfS8F3ODxVfs4z3YdZjnnf68p4jo/ZBJNmgZJROF5eNtyIkP8ebavXKVwA4FljJu8RaOayZxGLc4GFU+rxwczbmd4EAhDBSLj3Vyw3Wd0Hg/T/eEnMqGjUvof1JDMyVsGuFf5Ey0+87FZVEFes/0oM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="76ddd8a8adf254ddb6ce92fb74d98cc4cefdaed0" Description="" Url=""><as:assemblyIdentity name="Organizer.exe" version="1.0.0.0" publicKeyToken="19242a661cdb804d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Surgical Grade Software</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ts9a6qHYMJCLdLVA9L6EJR4WNAk=</DigestValue></Reference></SignedInfo><SignatureValue>bk7viCsd3JwzdyWr29Xvrtn6lhV4BRfLMsIxhICeRvwnC2iC5lfZqMUptVkjR5zPIa6qVJXMmLsHn6gBMHXU0GgzLfEZ3952RGdzd5FqEyVExcuw+RPYT/FdX+3ScgpcYaDqGVviEhE7oikaGhZknyHwZ1R8Z4PWMpiqeh6ID74=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3B2tckthw2PUQFTIMmWchYfS8F3ODxVfs4z3YdZjnnf68p4jo/ZBJNmgZJROF5eNtyIkP8ebavXKVwA4FljJu8RaOayZxGLc4GFU+rxwczbmd4EAhDBSLj3Vyw3Wd0Hg/T/eEnMqGjUvof1JDMyVsGuFf5Ey0+87FZVEFes/0oM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICJzCCAZSgAwIBAgIQnP0CdNCVQoBJbxOiE1pW0zAJBgUrDgMCHQUAMCIxIDAeBgNVBAMTF1N1cmdpY2FsIEdyYWRlIFNvZnR3YXJlMB4XDTEzMTIyMDIxNTEzN1oXDTM5MTIzMTIzNTk1OVowIjEgMB4GA1UEAxMXU3VyZ2ljYWwgR3JhZGUgU29mdHdhcmUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANwdrXJLYcNj1EBUyDJlnIWH0vBdzg8VX7OM92HWY553+vKeI6P2QSTZoGSUTheXjbciJD/Hm2r1ylcAOBZYybvEWjmsmcRi3OBhVPq8cHM25neBAIQwUi491csN1ndB4P0/3hJzKho1L6H9SQzMlbBrhX+RMtPvOxWVRBXrP9KDAgMBAAGjZjBkMA0GA1UdCgQGMAQDAgeAMFMGA1UdAQRMMEqAEGWPEossC0vE7xlO7/YFS2OhJDAiMSAwHgYDVQQDExdTdXJnaWNhbCBHcmFkZSBTb2Z0d2FyZYIQnP0CdNCVQoBJbxOiE1pW0zAJBgUrDgMCHQUAA4GBADAa9kP0CvxpOAIs8guFALn0pwBcTtuDqCusGT+t06niHg1QnUz69QLK4P+p/sAffNX8rIY+xHjh8w85WrELcRMWWGPligUDn1T09BcI7uTSUbFd7KwaAWm0jmM5K0kmLFBInywT/qxuumw1yCRJWoJbFGf3NZTUlaFXu7I/Ec8d</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

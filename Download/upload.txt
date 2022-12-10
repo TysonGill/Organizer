@@ -1,0 +1,6 @@
+open ftp.smarterasp.net
+user tysongill-001 ftpplease
+send organizer.zip sites\organizer\media\Organizer.zip
+send "C:\SGS Projects\Organizer\Documents\organizer_guide.pdf" "sites\organizer\media\organizer_guide.pdf"
+close
+quit

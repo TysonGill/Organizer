@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>AppVisor 1.0.43</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://publisher.appvisor.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD(TM) 2004 Association of Software Professionals (ASP)http://www.asp-shareware.org/pad is a data set standard and specification that is commercialsoftware publishers to disseminate certified information about their software application. The PAD format is copyright of the ASP and cannot be used without the formal licensing and permission of both the Association of Software Professionals and its agent AppVisor.com.</MASTER_PAD_INFO>
+    <CERTIFIED>No</CERTIFIED>
+    <CERTIFICATE_ID></CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE></CERTIFICATE_LICENSE>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-C4003528DFEB</Company_UIN>
+    <Product_UIN>APP-02006CF0D9FB</Product_UIN>
+    <Publish_on_CD>N</Publish_on_CD>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_String></Search_String>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <Backlink></Backlink>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Search_String_Unique></Search_String_Unique>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Company_Description></Company_Description>
+  </RoboSoft>
+  <Company_Info>
+    <PublisherID>pid-640001bb9feb</PublisherID>
+    <BrandID>bid-c4003528dfeb</BrandID>
+    <Company_Name>Surgical Grade Software</Company_Name>
+    <Country>United States of America</Country>
+    <State_Province>NY</State_Province>
+    <City_Town>New York</City_Town>
+    <Zip_Postal_Code>10005</Zip_Postal_Code>
+    <Address_1>10 Liberty Street #39F</Address_1>
+    <Address_2></Address_2>
+    <Company_WebSite_URL>http://www.surgicalgrade.net</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Tyson</Contact_First_Name>
+      <Contact_Last_Name>Gill</Contact_Last_Name>
+      <Contact_Email>tysongill@hotmail.com</Contact_Email>
+      <Author_First_Name>Tyson</Author_First_Name>
+      <Author_Last_Name>Gill</Author_Last_Name>
+      <Author_Email>tysongill@hotmail.com</Author_Email>
+      <Contact_Phone></Contact_Phone>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>tysongill@hotmail.com</Sales_Email>
+      <Support_Email>tysongill@hotmail.com</Support_Email>
+      <General_Email>tysongill@hotmail.com</General_Email>
+      <Sales_Phone>917.370.1700</Sales_Phone>
+      <Support_Phone>917.370.1700</Support_Phone>
+      <General_Phone>917.370.1700</General_Phone>
+      <Fax_Phone>917.370.1700</Fax_Phone>
+    </Support_Info>
+    <GooglePlusPage></GooglePlusPage>
+    <LinkedinPage></LinkedinPage>
+    <TwitterCompanyPage></TwitterCompanyPage>
+    <FacebookCompanyPage></FacebookCompanyPage>
+    <CompanyStorePage></CompanyStorePage>
+  </Company_Info>
+  <Program_Info>
+    <AppID>app-02006cf0d9fb</AppID>
+    <Program_Name>Organizer</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Month>01</Program_Release_Month>
+    <Program_Release_Day>01</Program_Release_Day>
+    <Program_Release_Year>2014</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Category_Class>Business::PIMS &amp; Calendars</Program_Category_Class>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Program_Categories>Business &amp; Finance :: PIMS &amp; Organizers</Program_Categories>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install Only</Program_Install_Support>
+    <Program_OS_Support>WinXP,Win7 x32,Win7 x64,Windows 8,Windows2003,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>Initial release.</Program_Change_Info>
+    <Program_System_Requirements>Windows .Net 4.0 Framework</Program_System_Requirements>
+    <Limitations>No limitations</Limitations>
+    <Awards></Awards>
+    <File_Info>
+      <File_Size_Bytes>523264</File_Size_Bytes>
+      <File_Size_K>511</File_Size_K>
+      <File_Size_MB>0.50</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count></Expire_Count>
+      <Expire_Based_On></Expire_Based_On>
+      <Expire_Year></Expire_Year>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+    </Expire_Info>
+    <FacebookFanPage></FacebookFanPage>
+    <VideoLink1URL></VideoLink1URL>
+    <VideoLink2URL></VideoLink2URL>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_DirectX></Includes_DirectX>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <GooglePlusFanPage></GooglePlusFanPage>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://surgicalgrade.net/organizer/</Application_Info_URL>
+      <Application_Order_URL>http://surgicalgrade.net/organizer/get-it/</Application_Order_URL>
+      <Application_Screenshot_URL>http://surgicalgrade.net/organizer/media/organizer.png</Application_Screenshot_URL>
+      <Application_Icon_URL>http://surgicalgrade.net/organizer/media/OrganizerIcon.gif</Application_Icon_URL>
+      <Application_XML_File_URL>http://repository.appvisor.com/app-02006cf0d9fb/site-01/Organizer_pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://surgicalgrade.net/organizer/media/organizer.zip</Primary_Download_URL>
+      <Secondary_Download_URL></Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Organizer, productivity, pim, personal, information, management, desktop, utilility</Keywords>
+      <Char_Desc_45>Organizer is a deskop information manager.</Char_Desc_45>
+      <Char_Desc_80>Organizer is a simple but powerful information management utility.</Char_Desc_80>
+      <Char_Desc_250>Organizer is a simple but powerful desktop utility that let you quickly and easily keep all those miscellaneous notes and links organized in one convenient place.</Char_Desc_250>
+      <Char_Desc_450>Organizer is a simple but powerful desktop utility that let you quickly and easily keep all those miscellaneous notes and links organized in one convenient place. You can enter notes for permanent storage or just for a quick reminder to yourself. Instead of using various file and web link favorites, you can manage these much more efficiently in Organizer and associate images and descriptive text with them.</Char_Desc_450>
+      <Char_Desc_2000>Organizer is a simple but powerful desktop utility that let you quickly and easily keep all those miscellaneous notes and links organized in one convenient place. You can enter notes for permanent storage or just for a quick reminder to yourself. Instead of using various file and web link favorites, you can manage these much more efficiently in Organizer and associate images and descriptive text with them. The information you store in Organizer will grow naturally and painlessly as you encounter it and you’ll never have to search everywhere in your system for it again.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Permissions>
+    <Distribution_Permissions>Freeware with no usage restrictions that do not violate the EULA.</Distribution_Permissions>
+    <EULA>SGS End User License Agreement (EULA)
+ 
+PLEASE READ CAREFULLY BEFORE USING THIS PRODUCT: This End-User License Agreement ('EULA') is a legal agreement between (a) you (either an individual or a single entity) and (b) Surgical Grade Software ('SGS') that governs your use of any Software Product, installed on or made available by SGS.
+ 
+BY TAKING ANY STEP TO INSTALL OR USE THE SOFTWARE PRODUCT, YOU (1) REPRESENT THAT YOU ARE OF THE LEGAL AGE OF MAJORITY IN YOUR STATE, PROVINCE JURISDICTION OF RESIDENCE AND, IF APPLICABLE, YOU ARE DULY AUTHORIZED BY YOUR EMPLOYER TO ENTER INTO THIS CONTRACT AND (2) YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT ACCEPT THE EULA TERMS, DO NOT USE THE SOFTWARE PRODUCT. 
+
+1. GRANT OF LICENSE. The Software Product includes two types of computer software (1) software that is owned by SGS (and may include associated media, and 'online' or electronic documentation) (collectively the 'Software Product') and (2) other software provided by third parties and used with the Software Product ('Third Party Software'). SGS grants you the following non-exclusive rights provided you agree to and comply with all terms and conditions of this EULA: 
+
+a. USE. You may use the Software Product on your computer (or computers if the Software Product is sold to you for use on multiple computers). You may not use the Software Product on additional computers and do not have the right to distribute the Software Product. You agree to only use the Software Product as expressly permitted herein. 
+
+b. RESERVATION OF RIGHTS. The Software Product is licensed, not sold, to you by SGS. SGS and its suppliers own all right, title and interest in and to the Software Product and reserve all rights not expressly granted to you in this EULA. You agree to refrain from any action that would diminish such rights or would call them into question.
+
+c. THIRD PARTY SOFTWARE. Notwithstanding the terms and conditions of this EULA, all or any portion of the Software Product which constitutes Third Party Software, is licensed to you subject to the terms and conditions of the software license agreement accompanying such Third Party Software whether in the form of a discrete agreement, shrink wrap license or electronic license terms accepted at time of download. Use of the Third Party Software by you shall be governed entirely by the terms and conditions of such license.
+
+d. SUPPORT. Technical support is available only to registered owners or doners through the SGS Discussion Forum and is community supported. Support via email is only provided after attempts to get assistance through the discussion forum has failed.
+ 
+2. UPGRADES. SGS normally offers upgrades free of charge but this is subject to change on a case by case basis.
+
+3. ADDITIONAL SOFTWARE. This EULA applies to updates or supplements to the original Software Product provided by SGS unless SGS provides other terms along with the update or supplement. In case of a conflict between such terms, the other terms will prevail.
+
+4. TRANSFER. a.Third Party. The Software Product may only be transferred to another end user as part of a transfer of the computer(s) on which it is installed. Any transfer must include all component parts, media, printed materials and this EULA. Prior to the transfer, the end user receiving the transferred product must agree to all the EULA terms. Upon transfer of your computer(s), your license is automatically terminated and you are no longer permitted to use the Software Product. b.Restrictions. You may not rent, lease or lend the Software Product or use the Software Product for commercial timesharing or bureau use. You may not sublicense, assign or transfer the license or Software Product except as expressly provided in this EULA.
+ 
+5. PROPRIETARY RIGHTS. All intellectual property rights in the Software Product and user documentation are owned by SGS or its suppliers and are protected by law, including but not limited to copyright, trade secret, and trademark law, as well as other applicable laws and international treaty provisions. The structure, organization and code of the Software Product are the valuable trade secrets and confidential information of SGS and its suppliers. You shall not remove any product identification, copyright notices or proprietary restrictions from the Software Product. 
+
+6. LIMITATION ON REVERSE ENGINEERING. Except to the extent that such restriction is not permitted under applicable law, you are not permitted (and you agree not to) reverse engineer, decompile, disassemble or create derivative works of or modify the Software Product. Nothing contained herein shall be construed, expressly or implicitly, as transferring any right, license or title to you other than those explicitly granted under this EULA. SGS reserves all rights in its intellectual property rights not expressly agreed to herein. Unauthorized copying of the Software Product or failure to comply with the restrictions in this EULA (or other breach of the license herein) will result in automatic termination of this Agreement and you agree that it will constitute immediate, irreparable harm to SGS for which monetary damages would be an inadequate remedy, and that injunctive relief will be an appropriate remedy for such breach.
+
+7. TERM. This EULA is effective unless terminated or rejected. This EULA will also terminate immediately and without additional notice in the event you breach this EULA and/or fail to comply with any term or condition of this EULA.
+
+8. CONSENT TO USE OF DATA. You agree that SGS and its affiliates or suppliers may collect and use statistics on your use of the Software Product in performing backup operations and technical information you provide in relation to support services related to the Software Product. SGS and its suppliers agree not to use this information in a form that personally identifies you except to the extent necessary to provide such services. 
+
+9. DISCLAIMER OF WARRANTIES.a.You acknowledge that the Software Product is for backup and redundancy only, and should not be used as a sole or primary source of storage. YOU AGREE THAT THE USE OF THE SOFTWARE PRODUCT IS AT YOUR SOLE RISK AS TO SATISFACTORY QUALITY PERFORMANCE, ACCURACY AND EFFORT. Use of the Software Product may adversely affect the operation of other software and devices. To the maximum extent permitted under applicable law, the Software Product is offered on an 'AS-IS' basis and SGS does NOT warrant that the functions contained in the Software Product will meet your requirements or that the operation of the Software Product will be uninterrupted or error free or that such errors will be corrected. Computer software is inherently subject to bugs and potential incompatibility with other computer software and hardware. You should not use the Software Product for any applications in which failure could cause any significant damage or injury to persons or tangible or intangible property. b.EXCEPT AS MAY BE SET OUT IN A SPECIFIC WARRANTY ACCOMPANYING THE SOFTWARE PRODUCT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SGS AND ITS SUPPLIERS PROVIDE THE SOFTWARE PRODUCT AND THIRD PARTY SOFTWARE 'AS IS' AND WITH ALL FAULTS AND WITHOUT ANY OTHER WARRANTY OF ANY KIND, AND HEREBY DISCLAIM ALL OTHER WARRANTIES AND CONDITIONS, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE AND NON-INFRINGEMENT, ANY IMPLIED WARRANTIES, DUTIES OR CONDITIONS OF MERCHANTABILITY, OF FITNESS FOR A PARTICULAR PURPOSE, AND OF LACK OF VIRUSES ALL WITH REGARD TO THE SOFTWARE PRODUCT ANDTHIRD PARTY SOFTWARE. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SGS OR A SGS AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY. Some states/jurisdictions do not allow exclusion of implied warranties or limitations on the duration of implied warranties, so the above disclaimer may not apply to you in its entirety. To the extent applicable law requires SGS to provide warranties, you agree that the scope and duration of such warranty shall be to the minimum extent permitted under such applicable law. c.IN NO EVENT DOES SGS PROVIDE ANY WARRANTY OR REPRESENTATIONS WITH RESPECT TO ANY THIRD PARTY HARDWARE OR SOFTWARE WITH WHICH THE SOFTWARE PRODUCT IS DESIGNED TO BE USED, AND SGS DISCLAIMS ALL LIABILITY WITH RESPECT TO ANY FAILURES THEREOF. 
+
+10. LIMITATION OF LIABILITY. Notwithstanding any damages that you might incur, the entire liability of SGS and any of its suppliers under any provision of this EULA and your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by you for the Software Product. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL SGS OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, FOR LOSS OF DATA OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT, THIRD PARTY SOFTWARE AND/OR THIRD PARTY HARDWARE USED WITH THE SOFTWARE PRODUCT, OR OTHERWISE IN CONNECTION WITH ANY PROVISION OF THIS EULA), EVEN IF SGS OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF THE REMEDY FAILS OF ITS ESSENTIAL PURPOSE. Some states/jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+
+11. INDEMNITY. You agree to indemnify and hold SGS and its officers, directors, employees and licensors harmless from any claim or demand (including but not limited to reasonable legal fees) made by a third party due to or arising out of or related to your violation of the terms and conditions of this Agreement, your violation of any laws, regulations or third party rights or your negligent act, omission or willful misconduct. 
+
+12. U.S. GOVERNMENT CUSTOMERS. The Software Product is a 'Commercial Item' as that term is defined in 48 C.F.R. 12.212 or 48 C.F.R. 227.7202, as applicable. Consistent with 48 C.F.R. 12.212 or 48 C.F.R. 227.7202, as applicable, Commercial Computer Software and Commercial Computer Software Documentation are licensed to the U.S. Government users (i) only as Commercial Items and (2) only with those rights granted to other users under this EULA. Unpublished rights are reserved under the copyrights of the United States. 
+
+13. COMPLIANCE WITH LAWS. You shall comply with all laws and regulations of the United States and other countries ('Export Laws') to ensure that the Software Product is not (1) exported, directly or indirectly, in violation of Export Laws, or (2) used for any purpose prohibited by Export Laws, including, without limitation, nuclear, chemical, or biological weapons proliferation. You further agree that you will not use the Software Product for any purpose prohibited under applicable law.
+
+14. APPLICABLE LAW. This EULA is governed by the laws of the Province of Ontario exclusive of conflict of law provisions and you attorn to the jurisdiction of the courts of the province of Ontario with respect to any proceedings arising from this EULA. The parties hereby agree that this Agreement is not governed by the United Nations Convention on Contracts for the International Sale of Goods.
+
+15. ENTIRE AGREEMENT. This EULA is the entire agreement between you and SGS relating to the Software Product and it supersedes all prior or contemporaneous oral or written communications, proposals and representations with respect to the Software Product or any other subject matter covered by this EULA. To the extent the terms of any SGS policies or programs for support services conflict with the terms of this EULA, the terms of this EULA shall control. In the event of a conflict between the English and any non-English versions of this EULA, the English version shall govern. If any provision of this EULA is held by a court of competent jurisdiction to be contrary to law, such provision will be changed and interpreted so as to best accomplish the objectives of the original provision to the fullest extent allowed by law and the remaining provision of the EULA will remain in force and effect. Sections 5, 6, 9, 10, 11, 14 and 15 shall survive termination of this EULA.</EULA>
+  </Permissions>
+  <Affiliates>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regnow_Order_Page></Affiliates_Regnow_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regnow_Vendor_ID></Affiliates_Regnow_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_Regnow_Product_ID></Affiliates_Regnow_Product_ID>
+    <Affiliates_FORM></Affiliates_FORM>
+    <Affiliates_FORM_VER></Affiliates_FORM_VER>
+    <Affiliates_VERSION></Affiliates_VERSION>
+    <Affiliates_URL></Affiliates_URL>
+    <Affiliates_Information_Page></Affiliates_Information_Page>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
+    <Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
+    <Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Kagi_Order_Page></Affiliates_Kagi_Order_Page>
+    <Affiliates_Kagi_Vendor_ID></Affiliates_Kagi_Vendor_ID>
+    <Affiliates_Kagi_Product_ID></Affiliates_Kagi_Product_ID>
+    <Affiliates_Kagi_Maximum_Commission_Rate></Affiliates_Kagi_Maximum_Commission_Rate>
+    <Affiliates_Order1_Order_Page></Affiliates_Order1_Order_Page>
+    <Affiliates_Order1_Vendor_ID></Affiliates_Order1_Vendor_ID>
+    <Affiliates_Order1_Product_ID></Affiliates_Order1_Product_ID>
+    <Affiliates_Order1_Maximum_Commission_Rate></Affiliates_Order1_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_Regnow_Maximum_Commission_Rate></Affiliates_Regnow_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+    <Affiliates_SWReg_Order_Page></Affiliates_SWReg_Order_Page>
+    <Affiliates_SWReg_Vendor_ID></Affiliates_SWReg_Vendor_ID>
+    <Affiliates_SWReg_Product_ID></Affiliates_SWReg_Product_ID>
+    <Affiliates_SWReg_Maximum_Commission_Rate></Affiliates_SWReg_Maximum_Commission_Rate>
+  </Affiliates>
+  <NewsFeed>
+    <NewsFeed_FORM></NewsFeed_FORM>
+    <NewsFeed_VERSION></NewsFeed_VERSION>
+    <NewsFeed_URL></NewsFeed_URL>
+    <NewsFeed_DESCRIPTION></NewsFeed_DESCRIPTION>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Type></NewsFeed_Type>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Author_First_Name></NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name></NewsFeed_Author_Last_Name>
+    <NewsFeed_Author_Email></NewsFeed_Author_Email>
+    <NewsFeed_Language></NewsFeed_Language>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+    <NewsFeed_Purpose></NewsFeed_Purpose>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+  </NewsFeed>
+  <Press_Release>
+    <Press_Release>Surgical Grade Software has released &lt;b&gt;Organizer&lt;/b&gt;, a simple but powerful desktop utility that let you quickly and easily keep all those miscellaneous notes and links organized in one convenient place. You can enter notes for permanent storage or just for a quick reminder to yourself. Instead of using various file and web link favorites, you can manage these much more efficiently in Organizer and associate images and descriptive text with them. The information you store in Organizer will grow naturally and painlessly as you encounter it and you’ll never have to search everywhere in your system for it again.</Press_Release>
+    <Keywords>Organizer, productivity, pim, personal, information, management, desktop, utilility</Keywords>
+    <Headline>New Desktop Information Organizer</Headline>
+    <Summary>Surgical Grade Software has released Organizer, a desktop utility that let you quickly and easily keep all those miscellaneous notes and links organized in one convenient place.</Summary>
+    <Press_Release_Plain></Press_Release_Plain>
+  </Press_Release>
+  <Site>
+    <Site_FORM></Site_FORM>
+    <Site_VERSION></Site_VERSION>
+    <Site_URL></Site_URL>
+    <Site_DESCRIPTION></Site_DESCRIPTION>
+    <Site_Site_Title>Organizer Home</Site_Site_Title>
+    <Site_Site_URL>http://surgicalgrade.net/organizer/</Site_Site_URL>
+    <Site_Keywords>Organizer, productivity, pim, personal, information, management, desktop, utilility</Site_Keywords>
+    <Site_Description_100>The official Organizer home page</Site_Description_100>
+    <Site_Description_250>The official Organizer home page providing product information, download, and support.</Site_Description_250>
+    <Site_Description_450>The official Organizer home page providing product information, download, and support.</Site_Description_450>
+    <Site_Contact_First_Name></Site_Contact_First_Name>
+    <Site_Contact_Last_Name></Site_Contact_Last_Name>
+    <Site_Contact_Email></Site_Contact_Email>
+  </Site>
+  <Dynamic_PAD>
+    <General>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
+      <DP_Distributive_Enabled>TRUE</DP_Distributive_Enabled>
+      <DP_Script_Base_URL>http://repository.appvisor.com/</DP_Script_Base_URL>
+      <DP_Pad_Mask>Organizer_pad.xml</DP_Pad_Mask>
+      <DP_Distributive_Primary_URL>http://surgicalgrade.net/organizer/media/organizer.zip</DP_Distributive_Primary_URL>
+      <DP_Distributive_Mask>organizer.zip</DP_Distributive_Mask>
+    </General>
+  </Dynamic_PAD>
+</XML_DIZ_INFO>
